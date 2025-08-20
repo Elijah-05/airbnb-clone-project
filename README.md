@@ -64,3 +64,30 @@ When working with mockup designs in Figma, identifying **color styles and typogr
 - **Brand Identity:** Colors and typography form a visual language that reflects the brand’s personality.  
 - **Accessibility:** Proper color contrast and readable typography improve usability for all users.  
 - **Scalability:** Maintaining design tokens (colors, fonts, sizes) makes it easier to expand the system later.  
+
+---
+
+## Project Roles and Responsibilities
+
+A successful project relies on clear roles and responsibilities. Below are the key roles in this project and their contributions to its success:  
+
+| Role | Responsibilities |
+|------|------------------|
+| **Project Manager** | Oversees project timeline, coordinates the team, and manages deliverables to ensure milestones are met. |
+| **Frontend Developers** | Implement UI components, integrate with APIs, and ensure a responsive, accessible design across devices. |
+| **Backend Developers** | Build APIs, manage database operations, and implement business logic that supports the application’s functionality. |
+| **Designers** | Create mockups, maintain the design system, and ensure high-quality user experience (UX) and user interface (UI) design. |
+| **QA/Testers** | Write and execute test cases, perform manual and automated testing, and report bugs to maintain product quality. |
+| **DevOps Engineers** | Manage deployments, configure CI/CD pipelines, and maintain server infrastructure to ensure stability and scalability. |
+| **Product Owner** | Define requirements, prioritize features, and act as the voice of stakeholders to align development with business goals. |
+| **Scrum Master** | Facilitate agile ceremonies, remove blockers, and support the team in following Scrum practices effectively. |
+
+---
+
+### 🌟 Importance of Defined Roles
+Clearly defining project roles ensures:  
+- **Accountability:** Each team member understands their responsibilities.  
+- **Efficiency:** Work is divided logically, reducing overlap and confusion.  
+- **Quality Assurance:** Dedicated QA ensures reliable, bug-free releases.  
+- **Alignment:** Product Owner ensures development matches business needs.  
+- **Agility:** Scrum Master fosters smooth agile processes and continuous improvement.  
