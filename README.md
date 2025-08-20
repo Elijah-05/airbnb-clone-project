@@ -90,4 +90,34 @@ Clearly defining project roles ensures:
 - **Efficiency:** Work is divided logically, reducing overlap and confusion.  
 - **Quality Assurance:** Dedicated QA ensures reliable, bug-free releases.  
 - **Alignment:** Product Owner ensures development matches business needs.  
-- **Agility:** Scrum Master fosters smooth agile processes and continuous improvement.  
+- **Agility:** Scrum Master fosters smooth agile processes and continuous improvement.
+
+---
+
+## UI Component Patterns
+
+To build a consistent and reusable interface, the following UI components are planned for the AirBnB Clone project:  
+
+### 🔹 Navbar
+- **Logo** for brand identity  
+- **Search bar** for property/location search  
+- **User navigation** (e.g., login, profile, bookings)  
+- **Responsive menu** for mobile and tablet support  
+
+### 🔹 Property Card
+- **Property image** to showcase the listing  
+- **Basic details** including price, location, and rating  
+- **Favorite button** to save properties for later  
+- **Responsive layout** to adapt across different devices  
+
+### 🔹 Footer
+- **Site links** (e.g., About, Contact, Help)  
+- **Company information** for transparency  
+- **Social media links** to connect with users  
+- **Copyright information**  
+
+---
+
+### 🌟 Design Principle
+Each component will be designed with **reusability** and **consistency** in mind, ensuring a unified user experience across the application while making future scaling and maintenance easier.  
+
